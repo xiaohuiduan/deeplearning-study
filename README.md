@@ -13,3 +13,6 @@
 
 原理链接：https://www.cnblogs.com/xiaohuiduan/p/16100596.html
 > 因为权重文件太大，如果需要，可以发邮件给我：xiaohuiduan@hunnu.edu.cn
+
+## 深度学习（四）之电影评论分类 
+原理链接：https://www.cnblogs.com/xiaohuiduan/p/16119474.html
