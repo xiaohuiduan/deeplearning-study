@@ -16,3 +16,7 @@
 
 ## 深度学习（四）之电影评论分类 
 原理链接：https://www.cnblogs.com/xiaohuiduan/p/16119474.html
+
+## 深度学习（五）之原型网络
+原理链接：https://www.cnblogs.com/xiaohuiduan/p/16244173.html
+> 因为忘记保存模型了，无法提供权重文件下载
