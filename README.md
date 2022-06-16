@@ -1,3 +1,6 @@
+
+> UCAS课程作业，请勿抄袭（被北邮上分吓到了）**No copy!No copy!No copy!**
+
 原理解释：https://www.cnblogs.com/xiaohuiduan/category/2127609.html
 
 ## 深度学习（一）之MNIST数据集分类
